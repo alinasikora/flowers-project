@@ -1,0 +1,11 @@
+%background-setup {
+    background-size: contain;
+    background-position: center center;
+}
+
+%background-border-box {
+    background-origin: border-box;
+    background-clip: border-box;
+    background-repeat: no-repeat;
+    background-attachment: local;
+}
